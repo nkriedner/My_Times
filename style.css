@@ -1,0 +1,22 @@
+
+/* Hintergrundfarbe - Für mich für den Start */
+
+body {
+  background-color: pink;
+}
+
+
+/* CSS Styling der Hauptelemente */
+
+header {
+  display: flex;
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+
+.logo-color {
+  color: MediumAquamarine;
+}
